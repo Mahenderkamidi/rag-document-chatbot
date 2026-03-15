@@ -1,0 +1,7 @@
+Artificial Intelligence helps computers think and learn.
+
+Machine Learning is part of AI.
+
+Generative AI can create text, images, and code.
+
+RAG stands for Retrieval Augmented Generation.
